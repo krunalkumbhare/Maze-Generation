@@ -10,7 +10,7 @@ var width = Mycanvas.width;
 var height = Mycanvas.height;
   
 var cols , rows ; 
-var w = 60;
+var w = 20;
 var grid = [];
 var current; 
 var stack = [];
